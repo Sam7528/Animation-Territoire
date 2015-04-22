@@ -1,0 +1,4 @@
+services:
+#    animation_user.example:
+#        class: Animation\UserBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
